@@ -1,7 +1,22 @@
 div{ width: 150px;
 	height: 150px;
 	border: 15px solid turquoise;
+	background-color: violet;
+	margin: 10px;
+	
+	}
+
+.abrazo {
+	width: 610px;
+	height: 200px;
+	
+}
+
+.hija {
 	display: inline-block;
+}
 
-	}/* Inserta tu CSS aqui */
-
+.novias {
+	display: inline-block;
+}
+	
